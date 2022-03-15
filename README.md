@@ -7,6 +7,7 @@ Some API responses have been mocked to encourage test reproducibility on a live 
 
 [Buggy Cars Rating Website](https://buggy.justtestit.org/)
 
+https://user-images.githubusercontent.com/101623280/158352541-a82dc32e-62b3-4e97-84df-ad15fd370d1c.mov
 
 ## Prerequisites
 - node.js (v16.2.0)
@@ -57,6 +58,8 @@ Run the tests
   Note:
   Refreshing the page will resolve the issue
 ```
+![image](https://user-images.githubusercontent.com/101623280/158352759-7b42cbbb-2dc7-4660-8f6f-84191b075d0a.png)
+
 
 #### User cannot return home from make screens 
 
@@ -70,6 +73,7 @@ Run the tests
   Actual:
   User remains on the make page
 ```
+![image](https://user-images.githubusercontent.com/101623280/158352863-626fcba3-1bd4-4e27-8669-ce259ec98f15.png)
 
 
 #### Author is not saved against comments for some models
@@ -87,6 +91,8 @@ Run the tests
   {"user":"","datePosted":"2022-03-14T04:37:32.060053429Z","text":"Great!"}
 
 ```
+![image](https://user-images.githubusercontent.com/101623280/158352945-4f412e2b-86c1-4e71-a8d8-c8cb1c6dcb09.png)
+
 
 ## Test Approach
 
