@@ -20,7 +20,7 @@ https://user-images.githubusercontent.com/101623280/158352541-a82dc32e-62b3-4e97
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone git@github.com:150322/buggycarsrating.git
 ```
 
 Go to the project directory
